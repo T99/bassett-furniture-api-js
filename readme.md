@@ -1,6 +1,8 @@
 # bassett-furniture-api-js
 Access the Bassett Furniture API in order to scrape collections of products, product details, etc.
 
+Note that this package is intended for NodeJS server usage, and will not work in the browser.
+
 ### [Find bassett-furniture-api on NPM.](https://www.npmjs.com/package/bassett-furniture-api)
 
 ## Table of Contents
