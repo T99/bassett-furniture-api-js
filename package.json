@@ -19,6 +19,10 @@
 		"url": "https://github.com/T99/bassett-furniture-api-js/issues"
 	},
 	"homepage": "https://github.com/T99/bassett-furniture-api-js#readme",
+	"dependencies": {
+		"iter-over": "^2.0.0",
+		"basic-ftp": "^4.6.6"
+	},
 	"devDependencies": {
 		"typescript": "latest",
 		"tslint": "latest",
